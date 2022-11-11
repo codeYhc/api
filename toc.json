@@ -1,0 +1,19 @@
+{
+  "collapseTableOfContents": false,
+  "items": [
+    {
+      "type": "divider",
+      "title": "APIS"
+    },
+    {
+      "type": "item",
+      "title": "test",
+      "uri": "/reference/test.yaml"
+    },
+    {
+      "type": "item",
+      "title": "codeyhc",
+      "uri": "/reference/codeyhc.yaml"
+    }
+  ]
+}

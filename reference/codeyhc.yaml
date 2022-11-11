@@ -4,6 +4,7 @@ x-stoplight:
 info:
   title: codeyhc
   version: '1.0'
+  summary: test
 servers:
   - url: 'https://www.codeyhc.top/v1/'
     description: ''
